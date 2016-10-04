@@ -1,0 +1,23 @@
+body{
+	background-image: url("../pictures/bg.jpg");
+	background-attachment:fixed;
+}
+
+.jumbotron > h1 {
+	text-align:center;
+	margin-bottom:70px;
+}
+.row{
+	margin-bottom:30px;
+}
+.col-md-12 > h1{
+	margin-top:30px;
+	margin-bottom:30px;
+	text-align:center;
+}
+.col-md-12 ul > li{
+	font-size:20px;
+}
+.container{
+	margin-top:30px;
+}
